@@ -303,7 +303,7 @@ figcaption {
   right: 0%;
   bottom: 0%;
   z-index: -10;
-  background-color: #fdf8f4;
+  background-color: #000000;
   box-shadow: 0 15px 50px -10px rgba(100, 44, 0, 0.07);
 }
 
@@ -2764,7 +2764,7 @@ figcaption {
 
   .nav-menu {
     padding-bottom: 20px;
-    background-color: #fdf8f4;
+    background-color: #000000;
     box-shadow: 0 25px 50px -10px rgba(100, 44, 0, 0.07);
   }
 
