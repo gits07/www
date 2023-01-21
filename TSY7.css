@@ -2732,7 +2732,8 @@ figcaption {
   grid-template-rows: auto;
 }
 
-@media screen and (max-width: 991px) {
+
+n and (max-width: 991px) {
   h1 {
     font-size: 54px;
   }
@@ -2774,14 +2775,14 @@ figcaption {
     border-radius: 50px;
     -webkit-transition: color 200ms ease, background-color 200ms ease;
     transition: color 200ms ease, background-color 200ms ease;
-    color: #ffffff;
+    color: ##761907;
     font-size: 22px;
     line-height: 100%;
   }
 
   .menu-button.w--open {
-    background-color: ##761907;
-    color: #fff;
+    background-color: #761907;
+    color: #761907;
   }
 
   .section-hero {
